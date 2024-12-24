@@ -2,7 +2,7 @@
 The HR Attrition dataset includes employee info across three departments (Sales, R&amp;D, HR) and various job roles. It tracks work-related metrics like training times, performance ratings, compensation, and work conditions. It also covers satisfaction, attrition, demographics, and factors influencing retention.
 #Topic : Dashboard on HR Attrition Analysis
 
-##Questions :
+## Questions :
 
 - Calculate the Total Number of employees
 
@@ -26,10 +26,10 @@ The HR Attrition dataset includes employee info across three departments (Sales,
 
 - Show the Attrition by Marital Status
 
-##Tools Use : Microsoft Excel
+## Tools Use : Microsoft Excel
 ## Data Set : Demo
  
-##Process Steps :
+## Process Steps :
 - Cleaning data - Excel
 - Analysis data - Excel
 - visualize data - Excel
