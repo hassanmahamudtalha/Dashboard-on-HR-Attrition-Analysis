@@ -26,8 +26,6 @@ The HR Attrition dataset includes employee info across three departments (Sales,
 
 - Show the Attrition by Marital Status
 
-## Tools Use : 
-   Microsoft Excel
 ## Data Set : 
    Demo
  
