@@ -35,3 +35,7 @@ The HR Attrition dataset includes employee info across three departments (Sales,
 - Cleaning data - Excel
 - Analysis data - Excel
 - visualize data - Excel
+
+
+## Image ![HR Attrition Dashboard](https://github.com/user-attachments/assets/2ef4c586-4b0a-4aa2-a1bb-708cba14072f)
+   
